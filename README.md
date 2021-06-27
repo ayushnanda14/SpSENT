@@ -41,7 +41,7 @@ Then install all the dependencies using the command
 Execute the model using the following command.
 
 ```sh
-    python audio_sentiment.py \[/audio/filename\]
+    python audio_sentiment.py [/audio/filename]
 ```
 
 The \[/audio/filename\] is optional, as you will be asked to specify the filename within the program execution.
